@@ -1,0 +1,21 @@
+{
+  "name": "npm_practice",
+  "version": "1.0.0",
+  "description": "Demo of npm",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "idk"
+  ],
+  "author": "shawn george",
+  "license": "ISC",
+  "dependencies": {
+    "reddit.js": "^0.1.4",
+    "redditapi": "^1.0.1",
+    "redditor": "^1.1.1",
+    "twit": "^2.2.11"
+  }
+}
