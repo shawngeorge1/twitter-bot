@@ -1,4 +1,4 @@
-console.log('bot is running');
+console.log('bot is runnings');
 var Twit = require('twit');
 
 //authentication
