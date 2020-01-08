@@ -10,7 +10,7 @@ var T = new Twit(mod);
 var reddit = require('redditor');
 
 tweet();
-setInterval(tweet, 1000*60*60);
+setInterval(tweet, 1000*60*59);
 
 
 function tweet(){
